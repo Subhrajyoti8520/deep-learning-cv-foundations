@@ -1,0 +1,9 @@
+fastai>=2.7.15
+fastbook
+fastcore
+torch>=2.0.0
+torchvision
+numpy>=1.24.0,<2.1.0
+ddgs
+ipywidgets
+jupyterlab
