@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ==========================================
+# Custom ML & Vision Exclusions
+# ==========================================
+
+# Model exports & large binary files
+*.pkl
+*.pth
+*.onnx
+*.h5
+
+# Downloaded image datasets & temp folders
+bird_or_not/
+bears/
+images/
+
